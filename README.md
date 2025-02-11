@@ -15,12 +15,12 @@ Ad elevato livello di astrazione, il sistema:
 
 ### Materiale
 
-- [Specifica](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23/blob/main/PFRL_Specifica_22_23%20V0.0.pdf)
+- [Specifica](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23/blob/main/PFRL_Specifica_22_23%20V0.0.pdf)
 
-- [Regole](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23/blob/main/PFRL_Regole_22_23%20V0.0.pdf)
+- [Regole](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23/blob/main/PFRL_Regole_22_23%20V0.0.pdf)
 
-- [Codice](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23/blob/main/Project_Code.vhd)
+- [Codice](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23/blob/main/Project_Code.vhd)
 
-- [Report](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23/blob/main/Report-Progetto-VHDL.pdf)
+- [Report](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23/blob/main/Report-Progetto-VHDL.pdf)
 
-- [Testbench](https://github.com/keira-ph/ProjectVHDL-Reti_Logiche_22-23/tree/main/testbench)
+- [Testbench](https://github.com/MarinaMastroleo/ProjectVHDL-Reti_Logiche_22-23/tree/main/testbench)
