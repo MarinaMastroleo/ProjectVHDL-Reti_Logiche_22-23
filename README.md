@@ -1,6 +1,7 @@
 # ProjectVHDL-Reti_Logiche_2023
+
 ## Prova Finale (Progetto di Reti Logiche) - A.A. 2022/2023
-La specifica della *Prova Finale (Progetto di Reti Logiche)* per l’Anno Accademico 2022/2023 chiede di implementare un *modulo HW* (descritto in VHDL) che si interfacci con una memoria e che rispetti le indicazioni riportate nella seguente specifica.
+La specifica della *Prova Finale (Progetto di Reti Logiche)* per l’Anno Accademico 2022/2023 richiede l'implementazione di un *modulo HW* (descritto in VHDL) che si interfacci con una memoria e rispetti le indicazioni fornite nella specifica.
 
 ### Descrizione del Sistema
 Ad elevato livello di astrazione, il sistema:
